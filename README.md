@@ -6,11 +6,11 @@ Following Udemy Course.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/readme/exptrck (1).png" width="250">
-  <img src="assets/readme/exptrck (2).png" width="250">
-  <img src="assets/readme/exptrck (3).png" width="250">
-  <img src="assets/readme/exptrck (5).png" width="250">
-  <img src="assets/readme/exptrck (6).png" width="250">
+  <img src="assets/readme/exptrck (1).png" width="150">
+  <img src="assets/readme/exptrck (2).png" width="150">
+  <img src="assets/readme/exptrck (3).png" width="150">
+  <img src="assets/readme/exptrck (5).png" width="150">
+  <img src="assets/readme/exptrck (6).png" width="150">
 </p>
 
 
